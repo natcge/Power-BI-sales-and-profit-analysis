@@ -1,6 +1,6 @@
 # natcge.github.io
 
-# 📊 Power BI Dashboard – Sales & Profit Analysis (2021–2022)
+# Power BI Dashboard – Sales & Profit Analysis (2021–2022)
 
 A comprehensive Power BI template analyzing rider sales with insights on hourly revenue, profit trends, seasonality, demographics, and pricing recommendations.
 
@@ -17,6 +17,9 @@ Built end-to-end from SQL Server data modeling to Power BI visualization, coveri
 
 
 > **Data source:** Based on Absent Data’s video(https://www.youtube.com/watch?v=jdGJWloo-OU&list=PLi5spBcf0UMXfbMt1X2bHQkk7mHXkTUhs&index=6&ab_channel=AbsentData)
+<img width="1244" height="699" alt="image" src="https://github.com/user-attachments/assets/62c1c31a-ad66-4dcb-ae2d-361ac7867a64" />
+<img width="1385" height="774" alt="image" src="https://github.com/user-attachments/assets/c76cf46c-e300-4984-83a3-6f09dcce5cb0" />
+
 
 ---
 
